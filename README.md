@@ -57,10 +57,10 @@
 
 ## 📌 What You'll Find Here
 
-- 📁 Practice Projects
-- 📊 Data Analysis Case Studies
-- 🧪 Experimental Code
-- 📚 Learning Notes
+- 📁 Practice Projects  
+- 📊 Data Analysis Case Studies  
+- 🧪 Experimental Code  
+- 📚 Learning Notes  
 
 ---
 
@@ -80,12 +80,12 @@
 ## 📊 GitHub Stats (Educational)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EDU_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EDU_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VKaran18&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKaran18&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_EDU_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VKaran18&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -93,8 +93,14 @@
 ## 👀 Profile Views
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_EDU_USERNAME&label=Profile%20views&color=0e75b6&style=flat" /> 
+  <img src="https://komarev.com/ghpvc/?username=VKaran18&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/VKaran18/VKaran18/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
